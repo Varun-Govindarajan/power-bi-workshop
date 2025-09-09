@@ -1,9 +1,56 @@
-<img width="1920" height="1200" alt="Screenshot 2025-09-09 152316" src="https://github.com/user-attachments/assets/65c1d833-a56e-4e3f-84f6-a14848975ed0" />
+# 📊 Amazon Sales Dashboard - Power BI
 
-<img width="1920" height="1200" alt="Screenshot 2025-09-09 152339" src="https://github.com/user-attachments/assets/18614a7c-56c1-408e-8bef-d389e78aafc2" />
+This project is an **Amazon Sales Dashboard** built using **Power BI**.  
+The dashboard provides insights into:
 
-<img width="1920" height="1200" alt="Screenshot 2025-09-09 152349" src="https://github.com/user-attachments/assets/18e6570c-e1b0-48fe-9e0f-850ab84936f0" />
+- 📦 Product-level sales  
+- 🌍 City and state-wise distribution  
+- 📈 Sales trends over time  
+- 👥 Seller and customer analysis  
 
-<img width="1920" height="1200" alt="Screenshot 2025-09-09 152401" src="https://github.com/user-attachments/assets/5035836a-4d74-4ab4-b257-4855295f80f8" />
+---
 
-<img width="1920" height="1200" alt="Screenshot 2025-09-09 152411" src="https://github.com/user-attachments/assets/a560a2b7-e2af-4fb9-b011-b51e19428033" />
+## 📷 Screenshots
+
+### 1️⃣ Overview Page
+![Overview](./074b926f-f690-4c94-8614-14d697ca53ce.png)
+
+---
+
+### 2️⃣ Product Page
+![Product Page](./e9adfab0-f1ea-43b3-9e9a-0cbd45ee0fb3.png)
+
+---
+
+### 3️⃣ Product Tooltip
+![Product Tooltip](./6b81d505-7a54-47c6-b342-6346042a953e.png)
+
+---
+
+### 4️⃣ Product Detail View
+![Product View](./ec09b924-af84-447f-9d93-268de55b8226.png)
+
+---
+
+### 5️⃣ Individual Product Report
+![Individual Product](./895ffa95-7211-4921-a8b0-517a7832a7a6.png)
+
+---
+
+## 🚀 Features
+- Interactive filters and slicers  
+- Drill-through pages for detailed insights  
+- Product-wise sales analysis  
+- Sales trend visualizations  
+- Clean and interactive design  
+
+---
+
+## 🛠️ Tools Used
+- **Power BI Desktop**  
+- **Excel Dataset** (Amazon sales data)  
+
+---
+
+## 📌 Author
+Created by **Varun Govindarajan**

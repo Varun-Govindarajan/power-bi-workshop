@@ -13,27 +13,28 @@ The dashboard provides insights into:
 ## 📷 Screenshots
 
 ### 1️⃣ Overview Page
-![Overview](./074b926f-f690-4c94-8614-14d697ca53ce.png)
+<img width="1920" height="1200" alt="Screenshot 2025-09-09 152316" src="https://github.com/user-attachments/assets/d5c32bf3-3fa4-456b-b0f1-79cc04cf4a4e" />
+
 
 ---
 
 ### 2️⃣ Product Page
-![Product Page](./e9adfab0-f1ea-43b3-9e9a-0cbd45ee0fb3.png)
+<img width="1920" height="1200" alt="Screenshot 2025-09-09 152339" src="https://github.com/user-attachments/assets/15202e8c-7ad7-4691-b8ad-0d83ce6577d0" />
 
 ---
 
 ### 3️⃣ Product Tooltip
-![Product Tooltip](./6b81d505-7a54-47c6-b342-6346042a953e.png)
+<img width="1920" height="1200" alt="Screenshot 2025-09-09 152349" src="https://github.com/user-attachments/assets/262e8206-68c4-4531-89d6-ae4582e66275" />
 
 ---
 
 ### 4️⃣ Product Detail View
-![Product View](./ec09b924-af84-447f-9d93-268de55b8226.png)
+<img width="1920" height="1200" alt="Screenshot 2025-09-09 152401" src="https://github.com/user-attachments/assets/e459e222-d2a0-4444-8498-07cde82b333b" />
 
 ---
 
 ### 5️⃣ Individual Product Report
-![Individual Product](./895ffa95-7211-4921-a8b0-517a7832a7a6.png)
+<img width="1920" height="1200" alt="Screenshot 2025-09-09 152411" src="https://github.com/user-attachments/assets/22e6bfa3-dd64-4126-94f9-c96f2862f87a" />
 
 ---
 
